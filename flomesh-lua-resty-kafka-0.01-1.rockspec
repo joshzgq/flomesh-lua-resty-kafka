@@ -1,5 +1,5 @@
 package = "flomesh-lua-resty-kafka"
-version = "0.01-0"
+version = "0.01-1"
 source = {
    url = "git://github.com/polaristech-io/flomesh-lua-resty-kafka",
    tag = "v0.01"
