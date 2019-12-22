@@ -1,8 +1,8 @@
 package = "lua-resty-kafka"
-version = "0.07-0"
+version = "0.01-0"
 source = {
-   url = "git://github.com/doujiang24/lua-resty-kafka",
-   tag = "v0.07"
+   url = "git://github.com/polaristech-io/flomesh-lua-resty-kafka",
+   tag = "v0.01"
 }
 description = {
    summary = "Lua Kafka client driver for the ngx_lua based on the cosocket API",
@@ -15,7 +15,7 @@ description = {
 
      Note that at least ngx_lua 0.9.3 or ngx_openresty 1.4.3.7 is required, and unfortunately only LuaJIT supported (--with-luajit).
    ]],
-   homepage = "https://github.com/doujiang24/lua-resty-kafka",
+   homepage = "https://github.com/polaristech-io/flomesh-lua-resty-kafka",
    license = "BSD"
 }
 dependencies = {
